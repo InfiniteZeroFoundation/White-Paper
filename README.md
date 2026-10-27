@@ -3,7 +3,9 @@
 **Decentralized Intelligence Network (DIN)**
 Abraham Nash · 23 pages
 
-📄 **[Read the white paper (PDF)](DIN-White-Paper.pdf)**
+Written while a PhD student in the Department of Computer Science, University of Oxford.
+
+📄 **[Read the white paper (PDF)](Decentralized%20Intelligence%20Network%20%28DIN%29.pdf)**
 
 ## Abstract
 
